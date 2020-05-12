@@ -1,0 +1,19 @@
+h1
+{
+	text-align: center;
+	color: rgb(169,169,169);
+}
+.new_game
+{	width: 30px;
+	height: 30px;
+	padding: 10%;
+    margin: 5% 0;
+    border: solid thin;
+    border-radius: 3vh;
+    transition: 0.2s;
+}
+
+canvas
+{
+	background-image: url(https://www.xmple.com/wallpaper/grey-white-checkered-squares-1920x1080-c2-a9a9a9-ffffff-l-70-a-0-f-2.svg);
+}

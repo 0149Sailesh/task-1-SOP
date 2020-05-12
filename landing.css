@@ -1,0 +1,37 @@
+h1
+{
+	text-align: center;
+	color: white;
+}
+.new_game
+{
+	padding: 5%;
+    margin: 5% 0;
+    border: 2px solid black;
+    border-radius: 3vh;
+    font-size: 30px;
+    color: white;
+    
+}
+a
+{
+	text-decoration: none;
+}
+.new_game:hover
+{
+	opacity:0.5;
+}
+body
+{
+	background-image: url(https://toppng.com/uploads/preview/bubbles-wallpaper-11554117980oig8736pqt.jpg);
+	color:white;
+}
+.instruction
+{
+	color:white;
+	padding: 5%;
+    margin: 5% 0;
+    border: 2px solid black;
+    border-radius: 3vh;
+    font-size: 20px;
+}
