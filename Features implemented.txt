@@ -1,0 +1,7 @@
+1) All features from basic task
+2)Bubbles change color and size dynamically
+3)Rock bubbles are created 
+4)Liquid luck feature 
+5) Gauntlets to clear half the bubbles.(Sprite sheet is used)
+6) Sprite sheet is used for both gauntlet and rock bubbles
+7)Sound effects is added
